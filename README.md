@@ -1,0 +1,1 @@
+# FriendlyRails-CRUD
